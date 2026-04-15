@@ -2,7 +2,7 @@
 """
 Created on Thu Jun 25 12:24:21 2020
 
-@author: brock
+@author: brockerdock
 """
 
 for name in dir():
